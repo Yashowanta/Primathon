@@ -1,0 +1,21 @@
+
+1. c & d
+2. b. _user_name
+3. a. It declares a constant variable that cannot be reassigned.
+4. a.
+5. c
+6. a. // This is a comment
+7. d.
+8. c
+9. b. It declares a variable with a block scope.
+10. b. /* This is a comment */
+11. a. To store and manipulate data
+12. c. constant z = 30; (should be `const` instead of `constant`)
+13. c. It explicitly represents nothing or no value.
+14. b. ===
+15. b. To perform a conditional execution of code based on multiple conditions
+16. b. _calculateSum
+17. a. Ends the execution of a loop or switch statement.
+18. b. Skips the remaining code in a loop and continues with the next iteration.
+19. d. console.log()
+20. b. It determines the data type of a variable.
