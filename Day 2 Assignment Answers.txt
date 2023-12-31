@@ -1,0 +1,47 @@
+Part 1: 
+1-
+ let num1 = 12;
+ let num2 = 5;
+ console.log("Sum:", num1 + num2);
+ console.log("Difference:", num1-num2);
+2-
+ let num3 = 5;
+ let num4 = 2;
+ console.log("Product:", num3 * num4);
+ console.log("Quotient:", num3 / num4);
+
+ Part 2 :
+3-
+ let value1 = 10;
+ let value2 = "10";
+console.log("Equality:", value1 == value2);
+ console.log("Strict Equality:", value1 === value2);
+ console.log("Inequality:", value1 != value2);
+4-
+ let num5 = 22;
+ let num6 = 10;
+ console.log("Greater Than:", num5 > num6);
+ console.log("Less Than:", num5 < num6);
+
+ Part 3: 
+5-
+ let isSunny = true;
+ let isWarm = true;
+ console.log("Sunny and Warm:", isSunny && isWarm);
+ console.log("Sunny or Warm:", isSunny || isWarm);
+6-
+ let isRainy = false;
+ console.log("Not Raining:", !isRainy);
+
+ Part 4:
+7-
+ let counter = 5;
+ console.log("Initial Counter:", counter);
+ counter++;
+ console.log("Incremented Counter:", counter);
+ counter--;
+ console.log("Decremented Counter:", counter);
+8-
+ let total = 20;
+ total += 10;
+ console.log("Updated Total:", total)
